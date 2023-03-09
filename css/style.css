@@ -1,0 +1,57 @@
+/* Main Container */
+
+.main_cont {
+    max-width: 1920px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+/* HEADER */
+
+header {
+
+    width: 100%;
+    padding: 49px 320px 48px 320px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #262626;
+    /* max-width: inherit;
+    width: inherit;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%);
+    position: fixed;
+    z-index: 1; */
+
+}
+
+
+ul {
+    display: flex;
+    gap: 68px;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 24px;
+
+}
+
+.bag {
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+
+/* SECTION */
+
+.sec1{
+    width: 100%;
+    height: 1080px;
+    position: relative;
+}
+
+.sofa{
+    width: 100%;
+    height: 100%;
+}
