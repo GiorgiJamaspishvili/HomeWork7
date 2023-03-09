@@ -142,4 +142,40 @@ h2 {
 /* SECTION 3 */
 
 
+.sec3 {
+    width: 70%;
+    height: 1504px;
+    /* border: 5px solid red; */
+    margin: auto 320px auto 320px;
+    display: flex;
+    align-content: stretch;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
 
+
+h3 {
+    font-weight: 600;
+    font-size: 64px;
+    color: #081323;
+}
+
+
+.interior_1 {
+    position: relative;
+}
+
+.pliv {
+    color: #FFFFFF;
+    font-size: 50px;
+    font-weight: 600;
+    font-size: 64px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+/* FOOTER */
